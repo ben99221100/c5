@@ -7,6 +7,7 @@ h1 {
     background-color: brown;
     color: aqua;
     width: 400px;
+    border-radius: 30px;
 }
 
 .edge {
