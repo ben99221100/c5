@@ -2,3 +2,9 @@ h1 {
     color: red; 
     background-color: blue;
 }
+
+#middle {
+    background-color: brown;
+    color: aqua;
+    width: 400px;
+}
